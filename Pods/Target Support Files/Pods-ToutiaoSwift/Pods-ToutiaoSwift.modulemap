@@ -1,0 +1,6 @@
+framework module Pods_ToutiaoSwift {
+  umbrella header "Pods-ToutiaoSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
